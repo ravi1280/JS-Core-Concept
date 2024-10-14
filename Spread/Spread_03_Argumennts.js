@@ -10,5 +10,4 @@ sum(...array);
 // We can't use Spread Operator for object like this =>
 sum(...obj);
 
-// But we can =>
-sum(...Object.values(obj));
+// But we can => 
