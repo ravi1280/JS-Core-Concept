@@ -11,3 +11,4 @@ sum(...array);
 sum(...obj);
 
 // But we can => 
+sum(...Object.values(obj));
